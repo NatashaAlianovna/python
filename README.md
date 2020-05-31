@@ -14,7 +14,9 @@ If you liked my code, I know my favorite language but I will do my best to impro
 Enjoy the programming.
 
 They can send a tip to:
-
+ETH or RC20 token.
 0x2F7207d76a657b5Ea3E4D97097b44318F6aF3db0
-
+Litecoin.
 LME2cwHL4M87n6SGZHp9jHUQAmZcMernbD
+Dash.
+XjSCFoY5jZ72NFrfkikS2g9aykVGpN9U2u
