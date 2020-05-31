@@ -12,7 +12,7 @@ Utilities of the program:
 I will be modifying it to be able to add new functions and improve errors.
 If you liked my code, I know my favorite language but I will do my best to improve it, you can contribute with code improvements.
 Enjoy the programming.
-
+Complete list Address.txt 2.000.000 address contact: natashaalianovna253@protonmail.com
 They can send a tip to:
 
 ETH or RC20 token.
